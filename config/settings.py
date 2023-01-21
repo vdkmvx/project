@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-3k97emfhta5)kywjf58lr^j&u0)l-=kt9t3m-0lb60dw9*qj^(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '95.163.236.170', 'composetopic.website']
+ALLOWED_HOSTS = ['localhost', '95.163.241.146', 'composetopic.website']
 
 
 # Application definition
